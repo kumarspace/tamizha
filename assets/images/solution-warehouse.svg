@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-labelledby="t">
+  <title id="t">Illustration of a warehouse with loading doors covered by a CCTV camera</title>
+  <rect width="480" height="300" fill="#EAF4FB"/>
+  <circle cx="70" cy="70" r="90" fill="#DCEEF9"/>
+  <rect y="250" width="480" height="50" fill="#D3E3F2"/>
+  <!-- Building -->
+  <path d="M60 120 Q220 50 380 120 V250 H60 Z" fill="#FFFFFF"/>
+  <path d="M48 124 Q220 40 392 124 L380 132 Q220 60 60 132 Z" fill="#0A2854"/>
+  <g stroke="#E3EBF4" stroke-width="2">
+    <path d="M60 150H380M60 170H380"/>
+  </g>
+  <!-- Shutters -->
+  <g>
+    <rect x="96" y="160" width="92" height="90" fill="#123D70"/>
+    <rect x="216" y="160" width="92" height="90" fill="#123D70"/>
+    <g stroke="#2A5A96" stroke-width="3">
+      <path d="M96 176H188M96 192H188M96 208H188M96 224H188M96 240H188"/>
+      <path d="M216 176H308M216 192H308M216 208H308M216 224H308M216 240H308"/>
+    </g>
+  </g>
+  <rect x="330" y="180" width="34" height="70" rx="2" fill="#0A2854"/>
+  <!-- Crates -->
+  <g fill="#08B8E8">
+    <rect x="392" y="214" width="36" height="36" rx="3"/>
+    <rect x="432" y="226" width="26" height="24" rx="3" fill-opacity="0.6"/>
+    <rect x="400" y="186" width="26" height="28" rx="3" fill-opacity="0.75"/>
+  </g>
+  <!-- Field of view -->
+  <polygon points="356,146 196,250 404,250" fill="#08B8E8" fill-opacity="0.18"/>
+  <!-- Camera -->
+  <g transform="translate(356 144) rotate(-28)">
+    <rect x="-4" y="-6" width="40" height="16" rx="8" fill="#FFFFFF" stroke="#0A2854" stroke-width="3"/>
+    <circle cx="2" cy="2" r="5" fill="#0A2854"/>
+    <circle cx="2" cy="2" r="2" fill="#08B8E8"/>
+    <path d="M28 -6 L36 -18" stroke="#0A2854" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>

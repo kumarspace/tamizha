@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-labelledby="t">
+  <title id="t">Illustration of an office building entrance with a dome camera and an access control panel</title>
+  <rect width="480" height="300" fill="#EAF4FB"/>
+  <circle cx="400" cy="250" r="110" fill="#DCEEF9"/>
+  <rect y="254" width="480" height="46" fill="#D3E3F2"/>
+  <!-- Building -->
+  <rect x="120" y="40" width="240" height="214" fill="#123D70"/>
+  <rect x="112" y="32" width="256" height="14" rx="3" fill="#0A2854"/>
+  <g fill="#2A5A96">
+    <rect x="140" y="62" width="40" height="28" rx="2"/>
+    <rect x="196" y="62" width="40" height="28" rx="2"/>
+    <rect x="300" y="62" width="40" height="28" rx="2"/>
+    <rect x="140" y="106" width="40" height="28" rx="2"/>
+    <rect x="244" y="106" width="40" height="28" rx="2"/>
+    <rect x="300" y="106" width="40" height="28" rx="2"/>
+    <rect x="196" y="150" width="40" height="28" rx="2"/>
+    <rect x="300" y="150" width="40" height="28" rx="2"/>
+  </g>
+  <g fill="#BFE9F8">
+    <rect x="244" y="62" width="40" height="28" rx="2"/>
+    <rect x="196" y="106" width="40" height="28" rx="2"/>
+    <rect x="140" y="150" width="40" height="28" rx="2"/>
+    <rect x="244" y="150" width="40" height="28" rx="2"/>
+  </g>
+  <!-- Entrance -->
+  <rect x="188" y="194" width="104" height="60" fill="#0A2854"/>
+  <rect x="196" y="202" width="42" height="52" fill="#BFE9F8" fill-opacity="0.75"/>
+  <rect x="242" y="202" width="42" height="52" fill="#BFE9F8" fill-opacity="0.75"/>
+  <!-- Access panel -->
+  <rect x="300" y="208" width="18" height="28" rx="3" fill="#FFFFFF"/>
+  <circle cx="309" cy="216" r="3" fill="#08B8E8"/>
+  <rect x="304" y="224" width="10" height="8" rx="1.5" fill="#0A2854"/>
+  <!-- Field of view -->
+  <polygon points="240,190 160,254 320,254" fill="#08B8E8" fill-opacity="0.22"/>
+  <!-- Dome camera -->
+  <rect x="226" y="180" width="28" height="6" rx="2" fill="#FFFFFF"/>
+  <path d="M229 186 a11 11 0 0 0 22 0 Z" fill="#FFFFFF" stroke="#0A2854" stroke-width="2.5"/>
+  <circle cx="240" cy="190" r="3" fill="#08B8E8"/>
+  <!-- Trees -->
+  <circle cx="72" cy="214" r="30" fill="#7FD3EE"/>
+  <rect x="68" y="230" width="8" height="24" rx="2" fill="#123D70"/>
+</svg>
